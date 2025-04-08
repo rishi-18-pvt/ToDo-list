@@ -7,8 +7,8 @@
 
 4. Delete tasks using the delete button
 
-5 .Tasks are saved in localStorage, so they persist even after page refresh
+5. Tasks are saved in localStorage, so they persist even after page refresh
 
-6 .Smooth animations and hover effects
+6. Smooth animations and hover effects
 
 7. Mobile-friendly design
